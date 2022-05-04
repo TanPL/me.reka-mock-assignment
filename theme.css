@@ -2,8 +2,6 @@ html,body {
     min-height: 100%;
     margin: 0;
     padding: 0;
-    font-family: 'Roboto';
-    font-weight: lighter;
 }
 /*navbar*/
 .navbar {
@@ -11,7 +9,6 @@ html,body {
     padding-left:2%;
     padding-top:5px;
     padding-bottom:5px;
-    font-family: 'Nunito';
   }
   .nav-link{
     color:#ABD2FA;
@@ -25,15 +22,6 @@ html,body {
       align-items: right;
   }
 /*end of navbar*/
-h1{
-  font-family: 'Nunito';
-}
-h4{
-  font-family: 'Nunito';
-}
-h5{
-  font-family: 'Nunito';
-}
 
 
   @media only screen and (max-width: 500px) {
@@ -80,15 +68,9 @@ h5{
 }
 .card{
     width:75%;
-    height:250px;
+    height:200px;
     margin-left: auto;
     margin-right: auto;
-  
-}
-
-.card-btn{
-  position:absolute;
-  bottom:10px;
 }
 
 /*footer*/
@@ -118,7 +100,7 @@ height:40px;width:1px;position:absolute;color:#ABD2FA;
 .btn{
     background-color:#7692FF;
     color: #ffffff;
-    margin:5px;
+    margin:3px;
 }
  
 .btn:hover{
