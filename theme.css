@@ -35,6 +35,7 @@ h5{
   font-family: 'Nunito';
 }
 
+
   @media only screen and (max-width: 500px) {
     .w-100 {
         width:100%;
@@ -79,16 +80,17 @@ h5{
 }
 .card{
     width:75%;
-    height:210px;
+    height:250px;
     margin-left: auto;
     margin-right: auto;
   
 }
 
 .card-btn{
-  position: absolute;
+  position:absolute;
   bottom:10px;
 }
+
 /*footer*/
   .footer {
     position: relative;
