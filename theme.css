@@ -5,6 +5,9 @@ html,body {
     font-family: 'Roboto';
     font-weight: lighter;
 }
+nav{
+  font-family: 'Nunito';
+}
 h1{
   font-family: 'Nunito';
 }
